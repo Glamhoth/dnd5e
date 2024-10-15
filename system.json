@@ -5,9 +5,9 @@
   "id" : "dnd5e",
   "image" : "images\/icon.jpg",
   "name" : "Dungeons & Dragons 5E",
-  "package" : "https:\/\/github.com\/encounterplus\/dnd5e\/releases\/latest\/download\/dnd5e.json",
-  "repository" : "https:\/\/github.com\/encounterplus\/dnd5e",
+  "package" : "https:\/\/github.com\/glamhoth\/dnd5e\/releases\/latest\/download\/dnd5e.json",
+  "repository" : "https:\/\/github.com\/glamhoth\/dnd5e",
   "shortDescr" : "World's Greatest Roleplaying Game",
   "shortName" : "D&D5E",
-  "version" : "0.9.8"
+  "version" : "0.9.8-1"
 }
