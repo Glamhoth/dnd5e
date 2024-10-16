@@ -2,7 +2,7 @@
   "id": "dnd5e",
   "name": "Dungeons and Dragons 5E",
   "type": "system",
-  "version": "0.9.8-1",
+  "version": "0.9.8-2",
   "description": "World's Greatest Roleplaying Game.",
-  "download": "https://github.com/glamhoth/dnd5e/releases/download/0.9.8-1/dnd5e_pl.system"
+  "download": "https://github.com/glamhoth/dnd5e/releases/download/0.9.8-2/dnd5e_pl.system"
 }
